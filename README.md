@@ -1,7 +1,7 @@
 # Material-Para-DAWeb_BD
 Tenemos link de referencia mas documentos Agosto 2024
-
-##Desarrollo WEB 
+- Emmanuel Salcido
+## Desarrollo WEB 
 - desarrollo web en tecnologías fundamentales como CSS, HTML y JavaScript
 - https://www.eniun.com/jquery-integracion-contenido-interactivo/
 
